@@ -5,14 +5,14 @@ package tbm;
  */
 public class TbmTest {
 
-    private Long a;
+    private Long c;
 
-    public Long getA() {
-        return a;
+    public Long getC() {
+        return c;
     }
 
-    public void setA(Long a) {
-        this.a = a;
+    public void setC(Long c) {
+        this.c = c;
     }
 }
 
