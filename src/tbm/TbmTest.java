@@ -1,16 +1,18 @@
 package tbm;
 
-
+/**
+ * Created by denishik on 03.07.2017.
+ */
 public class TbmTest {
 
-    private Long b;
+    private Long c;
 
-    public Long getB() {
-        return b;
+    public Long getC() {
+        return c;
     }
 
-    public void setB(Long b) {
-        this.b = b;
+    public void setC(Long c) {
+        this.c = c;
     }
 }
 
